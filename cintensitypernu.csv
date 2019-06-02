@@ -1,0 +1,42 @@
+Product,10th pctl,Mean,90th pctl
+Bovine Meat (beef herd),20,50,105
+Bovine Meat (dairy herd),9.1,17,26
+Lamb & Mutton,12,20,27
+Crustaceans (farmed),5.4,18,35
+Cheese,4.9,11,18
+Pig Meat,4.6,7.6,14
+Fish (farmed),2.5,6,12
+Poultry Meat,2.4,5.7,12
+Eggs,2.6,4.2,7.6
+Tofu,1,2,3.5
+Groundnuts,0.6,1.2,2.2
+Other Pulses,0.5,0.8,1.8
+Peas,0.3,0.4,0.8
+Nuts,2.2,0.3,2.4
+Milk,1.7,3.2,4.8
+Soymilk,0.6,1,1.5
+Cassava,0.4,1.4,2.2
+Rice,0.4,1.2,2.4
+Oatmeal,0.3,0.9,1.6
+Potatoes,0.2,0.6,0.9
+Wheat & Rye (Bread),0.3,0.6,0.9
+Maize (Meal),0.2,0.4,0.5
+Palm Oil,3.6,7.3,12
+Soybean Oil,2.4,6.3,13
+Olive Oil,2.9,5.4,7.6
+Rapeseed Oil,2.5,3.8,4.6
+Sunflower Oil,2.5,3.6,4.6
+Tomatoes,0.4,2.1,6
+Brassicas,0.2,0.5,1
+Onions & Leeks,0.3,0.5,0.8
+Root Vegetables,0.2,0.4,0.6
+Berries & Grapes,0.8,1.5,2.7
+Bananas,0.6,0.9,1.2
+Apples,0.3,0.4,0.6
+Citrus Fruit,0.1,0.4,0.6
+Cane Sugar,0.9,3.2,5.1
+Beet Sugar,1.2,1.8,2.4
+Barley (Beer),0.1,0.2,0.3
+Wine,0.1,0.1,0.2
+Dark Chocolate,0.01,2.3,6.7
+Coffee,0.1,0.4,1.3
